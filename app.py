@@ -8,7 +8,7 @@ import io
 st.set_page_config(page_title="Student Enrollment & Growth Forecaster", layout="wide")
 
 # Activation Key Logic
-ACTIVATION_KEY = "ENROLL-2026-PRO"
+ACTIVATION_KEY = "Ahsan123"
 
 if 'authenticated' not in st.session_state:
     st.session_state.authenticated = False
